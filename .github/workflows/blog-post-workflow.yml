@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  update-readme-with-blog-en:
+  update-readme-with-blog:
     name: Update this repo's README with latest english blog posts
     runs-on: ubuntu-latest
     steps:
