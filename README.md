@@ -16,27 +16,11 @@
 #### English posts 🇬🇧
 
 <!-- BLOG-POST-EN-LIST:START -->
-- [Remember all the commands of a project with Makefile](https://www.alexandre-hublau.com/en/posts/remember-commands-project-makefile/)
-- [LFTP - Deploy an application in command line using FTP](https://www.alexandre-hublau.com/en/posts/deploy-with-lftp/)
-- [How to center a &lt;div&gt; in CSS ?](https://www.alexandre-hublau.com/en/posts/centrer-div-css/)
-- [Cassandra - Technological watch](https://www.alexandre-hublau.com/en/posts/technological-watch-cassandra/)
-- [Create a WAMP environment with docker](https://www.alexandre-hublau.com/en/posts/code-share-docker-apache-mysql-php/)
-- [Ansible - Technological watch](https://www.alexandre-hublau.com/en/posts/technological-watch-ansible/)
-- [Alpine.js - Technological watch](https://www.alexandre-hublau.com/en/posts/technological-watch-alpine-js/)
-- [React JS - Technological watch](https://www.alexandre-hublau.com/en/posts/technological-watch-react-js/)
 <!-- BLOG-POST-EN-LIST:END -->
 
 #### French posts 🇫🇷
 
 <!-- BLOG-POST-FR-LIST:START -->
-- [Simplifiez les conditions avec les opérateurs logiques et opérateurs ternaires](https://www.alexandre-hublau.com/fr/posts/conditions-operateurs-logiques-ternaires/)
-- [Écrivez plus vite en HTML avec Emmet](https://www.alexandre-hublau.com/fr/posts/emmet-ecrire-html-vite/)
-- [Introduction à Vim](https://www.alexandre-hublau.com/fr/posts/introduction-a-vim/)
-- [Introduction aux jobs linux](https://www.alexandre-hublau.com/fr/posts/introduction-jobs-linux/)
-- [Supprimez les messages de connexion SSH au démarrage de session](https://www.alexandre-hublau.com/fr/posts/supprimer-messages-ssh-connexion/)
-- [Créez un environnement avec Docker et Traefik](https://www.alexandre-hublau.com/fr/posts/creer-environnement-docker-traefik/)
-- [Dockeriser votre application SSH!](https://www.alexandre-hublau.com/fr/posts/dockeriser-application-ssh/)
-- [Générez automatiquement vos certificats SSL avec traefik &lpar;OVH&rpar;](https://www.alexandre-hublau.com/fr/posts/generer-certificat-https-docker-traefik/)
 <!-- BLOG-POST-FR-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
