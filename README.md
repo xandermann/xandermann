@@ -16,6 +16,7 @@
 #### English posts 🇬🇧
 
 <!-- BLOG-POST-EN-LIST:START -->
+- [Crontab - Technological watch](https://www.alexandre-hublau.com/en/posts/technological-watch-cron/)
 - [GIT cheat sheet](https://www.alexandre-hublau.com/en/posts/cheat-sheet-git/)
 - [Remember all the commands of a project with Makefile](https://www.alexandre-hublau.com/en/posts/remember-commands-project-makefile/)
 - [LFTP - Deploy an application in command line using FTP](https://www.alexandre-hublau.com/en/posts/deploy-with-lftp/)
@@ -23,7 +24,6 @@
 - [Cassandra - Technological watch](https://www.alexandre-hublau.com/en/posts/technological-watch-cassandra/)
 - [Create a WAMP environment with docker](https://www.alexandre-hublau.com/en/posts/code-share-docker-apache-mysql-php/)
 - [Ansible - Technological watch](https://www.alexandre-hublau.com/en/posts/technological-watch-ansible/)
-- [Alpine.js - Technological watch](https://www.alexandre-hublau.com/en/posts/technological-watch-alpine-js/)
 <!-- BLOG-POST-EN-LIST:END -->
 
 #### French posts 🇫🇷
