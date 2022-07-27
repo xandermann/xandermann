@@ -16,6 +16,7 @@
 #### English posts 🇬🇧
 
 <!-- BLOG-POST-EN-LIST:START -->
+- [TailwindCSS - Technological watch](https://www.alexandre-hublau.com/en/posts/technological-watch-tailwindcss/)
 - [Immer JS - Technological watch](https://www.alexandre-hublau.com/en/posts/technological-watch-immerjs/)
 - [Crontab - Technological watch](https://www.alexandre-hublau.com/en/posts/technological-watch-cron/)
 - [GIT cheat sheet](https://www.alexandre-hublau.com/en/posts/cheat-sheet-git/)
@@ -23,7 +24,6 @@
 - [LFTP - Deploy an application in command line](https://www.alexandre-hublau.com/en/posts/deploy-with-lftp/)
 - [How to center a &lt;div&gt; in CSS ?](https://www.alexandre-hublau.com/en/posts/centrer-div-css/)
 - [Cassandra - Technological watch](https://www.alexandre-hublau.com/en/posts/technological-watch-cassandra/)
-- [Create a WAMP environment with docker](https://www.alexandre-hublau.com/en/posts/code-share-docker-apache-mysql-php/)
 <!-- BLOG-POST-EN-LIST:END -->
 
 #### French posts 🇫🇷
