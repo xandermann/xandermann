@@ -16,6 +16,7 @@
 #### English posts 🇬🇧
 
 <!-- BLOG-POST-EN-LIST:START -->
+- [What is a Static Site Generator ? - Technological watch](https://www.alexandre-hublau.com/en/posts/technological-watch-static-site-generator/)
 - [TailwindCSS - Technological watch](https://www.alexandre-hublau.com/en/posts/technological-watch-tailwindcss/)
 - [Immer JS - Technological watch](https://www.alexandre-hublau.com/en/posts/technological-watch-immerjs/)
 - [Crontab - Technological watch](https://www.alexandre-hublau.com/en/posts/technological-watch-cron/)
@@ -23,7 +24,6 @@
 - [Remember all the commands of a project with Makefile](https://www.alexandre-hublau.com/en/posts/remember-commands-project-makefile/)
 - [LFTP - Deploy an application in command line](https://www.alexandre-hublau.com/en/posts/deploy-with-lftp/)
 - [How to center a &lt;div&gt; in CSS ?](https://www.alexandre-hublau.com/en/posts/centrer-div-css/)
-- [Cassandra - Technological watch](https://www.alexandre-hublau.com/en/posts/technological-watch-cassandra/)
 <!-- BLOG-POST-EN-LIST:END -->
 
 #### French posts 🇫🇷
