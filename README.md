@@ -16,14 +16,14 @@
 #### English posts 🇬🇧
 
 <!-- BLOG-POST-EN-LIST:START -->
-- [How to internationalize an AstroJS website while maintaining good SEO ?](https://www.alexandre-hublau.com/en/tutorial-i18n-astro-js)
-- [What is a Static Site Generator ? - Technological watch](https://www.alexandre-hublau.com/en/technological-watch-static-site-generator)
-- [TailwindCSS - Technological watch](https://www.alexandre-hublau.com/en/technological-watch-tailwindcss)
-- [Immer JS - Technological watch](https://www.alexandre-hublau.com/en/technological-watch-immerjs)
-- [Crontab - Technological watch](https://www.alexandre-hublau.com/en/technological-watch-cron)
-- [GIT cheat sheet](https://www.alexandre-hublau.com/en/cheat-sheet-git)
-- [Remember all the commands of a project with Makefile](https://www.alexandre-hublau.com/en/remember-commands-project-makefile)
-- [LFTP - Deploy an application in command line](https://www.alexandre-hublau.com/en/deploy-with-lftp)
+- [How to internationalize an AstroJS website while maintaining good SEO ?](https://www.alexandre-hublau.com/en/posts/tutorial-i18n-astro-js)
+- [What is a Static Site Generator ? - Technological watch](https://www.alexandre-hublau.com/en/posts/technological-watch-static-site-generator)
+- [TailwindCSS - Technological watch](https://www.alexandre-hublau.com/en/posts/technological-watch-tailwindcss)
+- [Immer JS - Technological watch](https://www.alexandre-hublau.com/en/posts/technological-watch-immerjs)
+- [Crontab - Technological watch](https://www.alexandre-hublau.com/en/posts/technological-watch-cron)
+- [GIT cheat sheet](https://www.alexandre-hublau.com/en/posts/cheat-sheet-git)
+- [Remember all the commands of a project with Makefile](https://www.alexandre-hublau.com/en/posts/remember-commands-project-makefile)
+- [LFTP - Deploy an application in command line](https://www.alexandre-hublau.com/en/posts/deploy-with-lftp)
 <!-- BLOG-POST-EN-LIST:END -->
 
 #### French posts 🇫🇷
