@@ -15,10 +15,10 @@ jobs:
         with:
           max_post_count: "8"
           comment_tag_name: "BLOG-POST-EN-LIST"
-          feed_list: "https://www.alexandre-hublau.com/en/posts/index.xml"
+          feed_list: "https://www.alexandre-hublau.com/en/posts/rss.xml"
       - name: Update this repo's README with latest french blog posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "8"
           comment_tag_name: "BLOG-POST-FR-LIST"
-          feed_list: "https://www.alexandre-hublau.com/fr/posts/index.xml"
+          feed_list: "https://www.alexandre-hublau.com/fr/posts/rss.xml"
