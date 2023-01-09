@@ -29,14 +29,14 @@
 #### French posts 🇫🇷
 
 <!-- BLOG-POST-FR-LIST:START -->
-- [Simplifiez les conditions avec les opérateurs logiques et opérateurs ternaires](https://www.alexandre-hublau.com/fr/posts/conditions-operateurs-logiques-ternaires)
-- [Écrivez plus vite en HTML avec Emmet](https://www.alexandre-hublau.com/fr/posts/emmet-ecrire-html-vite)
-- [Introduction à Vim](https://www.alexandre-hublau.com/fr/posts/introduction-a-vim)
-- [Introduction aux jobs linux](https://www.alexandre-hublau.com/fr/posts/introduction-jobs-linux)
-- [Supprimez les messages de connexion SSH au démarrage de session](https://www.alexandre-hublau.com/fr/posts/supprimer-messages-ssh-connexion)
-- [Créez un environnement avec Docker et Traefik](https://www.alexandre-hublau.com/fr/posts/creer-environnement-docker-traefik)
-- [Dockeriser votre application SSH!](https://www.alexandre-hublau.com/fr/posts/dockeriser-application-ssh)
-- [Générez automatiquement vos certificats SSL avec traefik &lpar;OVH&rpar;](https://www.alexandre-hublau.com/fr/posts/generer-certificat-https-docker-traefik)
+- [Simplifiez les conditions avec les opérateurs logiques et opérateurs ternaires](https://www.alexandre-hublau.com/fr/posts/conditions-operateurs-logiques-ternaires/)
+- [Écrivez plus vite en HTML avec Emmet](https://www.alexandre-hublau.com/fr/posts/emmet-ecrire-html-vite/)
+- [Introduction à Vim](https://www.alexandre-hublau.com/fr/posts/introduction-a-vim/)
+- [Introduction aux jobs linux](https://www.alexandre-hublau.com/fr/posts/introduction-jobs-linux/)
+- [Supprimez les messages de connexion SSH au démarrage de session](https://www.alexandre-hublau.com/fr/posts/supprimer-messages-ssh-connexion/)
+- [Créez un environnement avec Docker et Traefik](https://www.alexandre-hublau.com/fr/posts/creer-environnement-docker-traefik/)
+- [Dockeriser votre application SSH!](https://www.alexandre-hublau.com/fr/posts/dockeriser-application-ssh/)
+- [Générez automatiquement vos certificats SSL avec traefik &lpar;OVH&rpar;](https://www.alexandre-hublau.com/fr/posts/generer-certificat-https-docker-traefik/)
 <!-- BLOG-POST-FR-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
