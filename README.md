@@ -16,6 +16,7 @@
 #### English posts 🇬🇧
 
 <!-- BLOG-POST-EN-LIST:START -->
+- [Java Spring Boot - Technological watch](https://www.alexandre-hublau.com/en/posts/technological-watch-java-spring-boot/)
 - [JWT - Technological watch](https://www.alexandre-hublau.com/en/posts/technological-watch-jwt/)
 - [My feedbacks about Static Site Generator](https://www.alexandre-hublau.com/en/posts/feedback-static-site-generator/)
 - [Astro JS ? - Technological watch](https://www.alexandre-hublau.com/en/posts/technological-watch-astro-js/)
@@ -23,7 +24,6 @@
 - [How to internationalize an AstroJS website while maintaining good SEO ?](https://www.alexandre-hublau.com/en/posts/tutorial-i18n-astro-js/)
 - [Static Site Generator ? - Technological watch](https://www.alexandre-hublau.com/en/posts/technological-watch-static-site-generator/)
 - [TailwindCSS - Technological watch](https://www.alexandre-hublau.com/en/posts/technological-watch-tailwindcss/)
-- [Immer JS - Technological watch](https://www.alexandre-hublau.com/en/posts/technological-watch-immerjs/)
 <!-- BLOG-POST-EN-LIST:END -->
 
 #### French posts 🇫🇷
