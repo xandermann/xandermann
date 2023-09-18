@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [my blog](https://www.alexandre-hublau.com)
 
-- 🌱 I’m currently learning **spring** and **Angular**
+- 🌱 I’m currently learning **Spring** and **Angular**
 
 - 📝 I regularly write articles on [https://www.alexandre-hublau.com](https://www.alexandre-hublau.com)
 
