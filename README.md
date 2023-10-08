@@ -16,6 +16,7 @@
 #### English posts 🇬🇧
 
 <!-- BLOG-POST-EN-LIST:START -->
+- [Kubernetes &lpar;CKA / CKAD&rpar; cheat sheet](https://www.alexandre-hublau.com/en/posts/it/cheat-sheet-kubernetes-cka-ckad/)
 - [Database ACID/BASE - Understanding the CAP Theorem](https://www.alexandre-hublau.com/en/posts/it/technological-watch-CAP-theorem/)
 - [Java Spring Boot - Technological watch](https://www.alexandre-hublau.com/en/posts/it/technological-watch-java-spring-boot/)
 - [JWT - Technological watch](https://www.alexandre-hublau.com/en/posts/it/technological-watch-jwt/)
@@ -23,7 +24,6 @@
 - [Astro JS ? - Technological watch](https://www.alexandre-hublau.com/en/posts/it/technological-watch-astro-js/)
 - [HashiCorp Vault - Technological watch](https://www.alexandre-hublau.com/en/posts/it/technological-watch-vault/)
 - [How to internationalize an AstroJS website while maintaining good SEO ?](https://www.alexandre-hublau.com/en/posts/it/tutorial-i18n-astro-js/)
-- [Static Site Generator ? - Technological watch](https://www.alexandre-hublau.com/en/posts/it/technological-watch-static-site-generator/)
 <!-- BLOG-POST-EN-LIST:END -->
 
 #### French posts 🇫🇷
