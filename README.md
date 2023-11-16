@@ -16,14 +16,14 @@
 #### English posts 🇬🇧
 
 <!-- BLOG-POST-EN-LIST:START -->
+- [Jenkins - Technological watch](https://www.alexandre-hublau.com/en/posts/it/technological-watch-jenkins/)
+- [UFW - Technological watch](https://www.alexandre-hublau.com/en/posts/it/technological-watch-ufw/)
 - [jq - Technological watch](https://www.alexandre-hublau.com/en/posts/it/technological-watch-jq/)
 - [ApacheBench - Technological watch](https://www.alexandre-hublau.com/en/posts/it/technological-watch-apachebench/)
 - [Kubernetes &lpar;CKA / CKAD&rpar; cheat sheet](https://www.alexandre-hublau.com/en/posts/it/cheat-sheet-kubernetes-cka-ckad/)
 - [Database ACID/BASE - Understanding the CAP Theorem](https://www.alexandre-hublau.com/en/posts/it/technological-watch-CAP-theorem/)
 - [Java Spring Boot - Technological watch](https://www.alexandre-hublau.com/en/posts/it/technological-watch-java-spring-boot/)
 - [JWT - Technological watch](https://www.alexandre-hublau.com/en/posts/it/technological-watch-jwt/)
-- [My feedbacks about Static Site Generator](https://www.alexandre-hublau.com/en/posts/it/feedback-static-site-generator/)
-- [Astro JS ? - Technological watch](https://www.alexandre-hublau.com/en/posts/it/technological-watch-astro-js/)
 <!-- BLOG-POST-EN-LIST:END -->
 
 #### French posts 🇫🇷
