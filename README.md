@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [my blog](https://www.alexandre-hublau.com)
 
-- 🌱 I’m currently learning **Spring** and **Angular**
+- 🌱 I’m currently practicing **Kubernetes** and **Terraform**
 
-- 📝 I regularly write articles on [https://www.alexandre-hublau.com](https://www.alexandre-hublau.com)
+- 📝 I regularly write articles on [https://www.alexandre-hublau.com/en/posts/it/](https://www.alexandre-hublau.com)
 
-- 📫 How to reach me **contact@alexandre-hublau.com**
+- 📫 How to reach me : **contact@alexandre-hublau.com**
 
 - ⚡ Fun fact **The alchemist : Paulo Coelho - is my favorite book ! 📚**
 
