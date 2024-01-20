@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently practicing **Kubernetes** and **Terraform**
 
-- 📝 I regularly write articles on [https://www.alexandre-hublau.com/en/posts/it/](https://www.alexandre-hublau.com)
+- 📝 I regularly write articles on [https://www.alexandre-hublau.com](https://www.alexandre-hublau.com/en/posts/it/)
 
 - 📫 How to reach me : **contact@alexandre-hublau.com**
 
