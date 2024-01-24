@@ -16,6 +16,7 @@
 #### English posts 🇬🇧
 
 <!-- BLOG-POST-EN-LIST:START -->
+- [Svelte - Technological watch](https://www.alexandre-hublau.com/en/posts/it/technological-watch-svelte/)
 - [PicoCSS - Technological watch](https://www.alexandre-hublau.com/en/posts/it/technological-watch-picocss/)
 - [Terraform - Technological watch](https://www.alexandre-hublau.com/en/posts/it/technological-watch-terraform/)
 - [Jenkins - Technological watch](https://www.alexandre-hublau.com/en/posts/it/technological-watch-jenkins/)
@@ -23,7 +24,6 @@
 - [jq - Technological watch](https://www.alexandre-hublau.com/en/posts/it/technological-watch-jq/)
 - [ApacheBench - Technological watch](https://www.alexandre-hublau.com/en/posts/it/technological-watch-apachebench/)
 - [Kubernetes &lpar;CKA / CKAD&rpar; cheat sheet](https://www.alexandre-hublau.com/en/posts/it/cheat-sheet-kubernetes-cka-ckad/)
-- [Database ACID/BASE - Understanding the CAP Theorem](https://www.alexandre-hublau.com/en/posts/it/technological-watch-CAP-theorem/)
 <!-- BLOG-POST-EN-LIST:END -->
 
 #### French posts 🇫🇷
