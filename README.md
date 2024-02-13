@@ -16,6 +16,7 @@
 #### English posts 🇬🇧
 
 <!-- BLOG-POST-EN-LIST:START -->
+- [Design pattern &quot;Adapter&quot;](https://www.alexandre-hublau.com/en/posts/it/design-pattern-adapter/)
 - [Svelte - Technological watch](https://www.alexandre-hublau.com/en/posts/it/technological-watch-svelte/)
 - [PicoCSS - Technological watch](https://www.alexandre-hublau.com/en/posts/it/technological-watch-picocss/)
 - [Terraform - Technological watch](https://www.alexandre-hublau.com/en/posts/it/technological-watch-terraform/)
@@ -23,7 +24,6 @@
 - [UFW - Technological watch](https://www.alexandre-hublau.com/en/posts/it/technological-watch-ufw/)
 - [jq - Technological watch](https://www.alexandre-hublau.com/en/posts/it/technological-watch-jq/)
 - [ApacheBench - Technological watch](https://www.alexandre-hublau.com/en/posts/it/technological-watch-apachebench/)
-- [Kubernetes &lpar;CKA / CKAD&rpar; cheat sheet](https://www.alexandre-hublau.com/en/posts/it/cheat-sheet-kubernetes-cka-ckad/)
 <!-- BLOG-POST-EN-LIST:END -->
 
 #### French posts 🇫🇷
