@@ -16,6 +16,7 @@
 #### English posts 🇬🇧
 
 <!-- BLOG-POST-EN-LIST:START -->
+- [OpenAPI / Swagger - Technological watch](https://www.alexandre-hublau.com/en/posts/it/technological-watch-swagger/)
 - [Design pattern &quot;Adapter&quot;](https://www.alexandre-hublau.com/en/posts/it/design-pattern-adapter/)
 - [Svelte - Technological watch](https://www.alexandre-hublau.com/en/posts/it/technological-watch-svelte/)
 - [PicoCSS - Technological watch](https://www.alexandre-hublau.com/en/posts/it/technological-watch-picocss/)
@@ -23,7 +24,6 @@
 - [Jenkins - Technological watch](https://www.alexandre-hublau.com/en/posts/it/technological-watch-jenkins/)
 - [UFW - Technological watch](https://www.alexandre-hublau.com/en/posts/it/technological-watch-ufw/)
 - [jq - Technological watch](https://www.alexandre-hublau.com/en/posts/it/technological-watch-jq/)
-- [ApacheBench - Technological watch](https://www.alexandre-hublau.com/en/posts/it/technological-watch-apachebench/)
 <!-- BLOG-POST-EN-LIST:END -->
 
 #### French posts 🇫🇷
