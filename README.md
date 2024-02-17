@@ -16,6 +16,7 @@
 #### English posts 🇬🇧
 
 <!-- BLOG-POST-EN-LIST:START -->
+- [RabbitMQ - Technological watch](https://www.alexandre-hublau.com/en/posts/it/technological-watch-rabbitmq/)
 - [OpenAPI / Swagger - Technological watch](https://www.alexandre-hublau.com/en/posts/it/technological-watch-swagger/)
 - [Design pattern &quot;Adapter&quot;](https://www.alexandre-hublau.com/en/posts/it/design-pattern-adapter/)
 - [Svelte - Technological watch](https://www.alexandre-hublau.com/en/posts/it/technological-watch-svelte/)
@@ -23,7 +24,6 @@
 - [Terraform - Technological watch](https://www.alexandre-hublau.com/en/posts/it/technological-watch-terraform/)
 - [Jenkins - Technological watch](https://www.alexandre-hublau.com/en/posts/it/technological-watch-jenkins/)
 - [UFW - Technological watch](https://www.alexandre-hublau.com/en/posts/it/technological-watch-ufw/)
-- [jq - Technological watch](https://www.alexandre-hublau.com/en/posts/it/technological-watch-jq/)
 <!-- BLOG-POST-EN-LIST:END -->
 
 #### French posts 🇫🇷
