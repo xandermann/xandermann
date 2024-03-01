@@ -16,6 +16,7 @@
 #### English posts 🇬🇧
 
 <!-- BLOG-POST-EN-LIST:START -->
+- [Create an Ansible playground with Docker](https://www.alexandre-hublau.com/en/posts/it/tutorial-create-an-ansible-playground-with-docker/)
 - [RabbitMQ - Technological watch](https://www.alexandre-hublau.com/en/posts/it/technological-watch-rabbitmq/)
 - [OpenAPI / Swagger - Technological watch](https://www.alexandre-hublau.com/en/posts/it/technological-watch-swagger/)
 - [Design pattern &quot;Adapter&quot;](https://www.alexandre-hublau.com/en/posts/it/design-pattern-adapter/)
@@ -23,7 +24,6 @@
 - [PicoCSS - Technological watch](https://www.alexandre-hublau.com/en/posts/it/technological-watch-picocss/)
 - [Terraform - Technological watch](https://www.alexandre-hublau.com/en/posts/it/technological-watch-terraform/)
 - [Jenkins - Technological watch](https://www.alexandre-hublau.com/en/posts/it/technological-watch-jenkins/)
-- [UFW - Technological watch](https://www.alexandre-hublau.com/en/posts/it/technological-watch-ufw/)
 <!-- BLOG-POST-EN-LIST:END -->
 
 #### French posts 🇫🇷
