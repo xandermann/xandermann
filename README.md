@@ -16,6 +16,7 @@
 #### English posts 🇬🇧
 
 <!-- BLOG-POST-EN-LIST:START -->
+- [Create a Docker Swarm playground](https://www.alexandre-hublau.com/en/posts/it/tutorial-create-docker-swarm-playground/)
 - [Immutable distribution - Fedora Silverblue - Technological watch](https://www.alexandre-hublau.com/en/posts/it/technological-watch-immutable-distribution/)
 - [Setup a Kubernetes cluster with K3S, Traefik, CertManager and Kubernetes Dashboard](https://www.alexandre-hublau.com/en/posts/it/tutorial-setup-kubernetes-cluster-k3s/)
 - [Create an Ansible playground with Docker](https://www.alexandre-hublau.com/en/posts/it/tutorial-create-an-ansible-playground-with-docker/)
@@ -23,7 +24,6 @@
 - [OpenAPI / Swagger - Technological watch](https://www.alexandre-hublau.com/en/posts/it/technological-watch-swagger/)
 - [Design pattern &quot;Adapter&quot;](https://www.alexandre-hublau.com/en/posts/it/design-pattern-adapter/)
 - [Svelte - Technological watch](https://www.alexandre-hublau.com/en/posts/it/technological-watch-svelte/)
-- [PicoCSS - Technological watch](https://www.alexandre-hublau.com/en/posts/it/technological-watch-picocss/)
 <!-- BLOG-POST-EN-LIST:END -->
 
 #### French posts 🇫🇷
