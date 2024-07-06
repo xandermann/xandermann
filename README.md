@@ -16,6 +16,7 @@
 #### English posts 🇬🇧
 
 <!-- BLOG-POST-EN-LIST:START -->
+- [Design pattern &quot;State&quot;](https://www.alexandre-hublau.com/en/posts/it/design-pattern-state/)
 - [Design pattern &quot;Bridge&quot;](https://www.alexandre-hublau.com/en/posts/it/design-pattern-bridge/)
 - [Falco - Technological watch](https://www.alexandre-hublau.com/en/posts/it/technological-watch-falco/)
 - [Create a Docker Swarm playground](https://www.alexandre-hublau.com/en/posts/it/tutorial-create-docker-swarm-playground/)
@@ -23,7 +24,6 @@
 - [Setup a Kubernetes cluster with K3S, Traefik, CertManager and Kubernetes Dashboard](https://www.alexandre-hublau.com/en/posts/it/tutorial-setup-kubernetes-cluster-k3s/)
 - [Create an Ansible playground with Docker](https://www.alexandre-hublau.com/en/posts/it/tutorial-create-an-ansible-playground-with-docker/)
 - [RabbitMQ - Technological watch](https://www.alexandre-hublau.com/en/posts/it/technological-watch-rabbitmq/)
-- [OpenAPI / Swagger - Technological watch](https://www.alexandre-hublau.com/en/posts/it/technological-watch-swagger/)
 <!-- BLOG-POST-EN-LIST:END -->
 
 #### French posts 🇫🇷
