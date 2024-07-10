@@ -16,6 +16,7 @@
 #### English posts 🇬🇧
 
 <!-- BLOG-POST-EN-LIST:START -->
+- [Design pattern &quot;Facade&quot;](https://www.alexandre-hublau.com/en/posts/it/design-pattern-facade/)
 - [Design pattern &quot;Decorator&quot;](https://www.alexandre-hublau.com/en/posts/it/design-pattern-decorator/)
 - [Design pattern &quot;Composite&quot;](https://www.alexandre-hublau.com/en/posts/it/design-pattern-composite/)
 - [Design pattern &quot;State&quot;](https://www.alexandre-hublau.com/en/posts/it/design-pattern-state/)
@@ -23,7 +24,6 @@
 - [Falco - Technological watch](https://www.alexandre-hublau.com/en/posts/it/technological-watch-falco/)
 - [Create a Docker Swarm playground](https://www.alexandre-hublau.com/en/posts/it/tutorial-create-docker-swarm-playground/)
 - [Immutable distribution - Fedora Silverblue - Technological watch](https://www.alexandre-hublau.com/en/posts/it/technological-watch-immutable-distribution/)
-- [Setup a Kubernetes cluster with K3S, Traefik, CertManager and Kubernetes Dashboard](https://www.alexandre-hublau.com/en/posts/it/tutorial-setup-kubernetes-cluster-k3s/)
 <!-- BLOG-POST-EN-LIST:END -->
 
 #### French posts 🇫🇷
