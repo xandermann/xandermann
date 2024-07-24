@@ -16,6 +16,7 @@
 #### English posts 🇬🇧
 
 <!-- BLOG-POST-EN-LIST:START -->
+- [Design pattern &quot;Observer&quot;](https://www.alexandre-hublau.com/en/posts/it/design-pattern-observer/)
 - [Design pattern &quot;Memento&quot;](https://www.alexandre-hublau.com/en/posts/it/design-pattern-memento/)
 - [Design pattern &quot;Facade&quot;](https://www.alexandre-hublau.com/en/posts/it/design-pattern-facade/)
 - [Design pattern &quot;Decorator&quot;](https://www.alexandre-hublau.com/en/posts/it/design-pattern-decorator/)
@@ -23,7 +24,6 @@
 - [Design pattern &quot;State&quot;](https://www.alexandre-hublau.com/en/posts/it/design-pattern-state/)
 - [Design pattern &quot;Bridge&quot;](https://www.alexandre-hublau.com/en/posts/it/design-pattern-bridge/)
 - [Falco - Technological watch](https://www.alexandre-hublau.com/en/posts/it/technological-watch-falco/)
-- [Create a Docker Swarm playground](https://www.alexandre-hublau.com/en/posts/it/tutorial-create-docker-swarm-playground/)
 <!-- BLOG-POST-EN-LIST:END -->
 
 #### French posts 🇫🇷
