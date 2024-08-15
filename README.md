@@ -16,6 +16,7 @@
 #### English posts 🇬🇧
 
 <!-- BLOG-POST-EN-LIST:START -->
+- [Design pattern &quot;Visitor&quot;](https://www.alexandre-hublau.com/en/posts/it/design-pattern-visitor/)
 - [Design pattern &quot;Iterator&quot;](https://www.alexandre-hublau.com/en/posts/it/design-pattern-iterator/)
 - [Design pattern &quot;Observer&quot;](https://www.alexandre-hublau.com/en/posts/it/design-pattern-observer/)
 - [Design pattern &quot;Memento&quot;](https://www.alexandre-hublau.com/en/posts/it/design-pattern-memento/)
@@ -23,7 +24,6 @@
 - [Design pattern &quot;Decorator&quot;](https://www.alexandre-hublau.com/en/posts/it/design-pattern-decorator/)
 - [Design pattern &quot;Composite&quot;](https://www.alexandre-hublau.com/en/posts/it/design-pattern-composite/)
 - [Design pattern &quot;State&quot;](https://www.alexandre-hublau.com/en/posts/it/design-pattern-state/)
-- [Design pattern &quot;Bridge&quot;](https://www.alexandre-hublau.com/en/posts/it/design-pattern-bridge/)
 <!-- BLOG-POST-EN-LIST:END -->
 
 #### French posts 🇫🇷
