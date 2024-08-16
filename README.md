@@ -16,6 +16,7 @@
 #### English posts 🇬🇧
 
 <!-- BLOG-POST-EN-LIST:START -->
+- [The SOLID/STUPID principles](https://www.alexandre-hublau.com/en/posts/it/the-solid-stupid-principles/)
 - [Design pattern &quot;Visitor&quot;](https://www.alexandre-hublau.com/en/posts/it/design-pattern-visitor/)
 - [Design pattern &quot;Iterator&quot;](https://www.alexandre-hublau.com/en/posts/it/design-pattern-iterator/)
 - [Design pattern &quot;Observer&quot;](https://www.alexandre-hublau.com/en/posts/it/design-pattern-observer/)
@@ -23,7 +24,6 @@
 - [Design pattern &quot;Facade&quot;](https://www.alexandre-hublau.com/en/posts/it/design-pattern-facade/)
 - [Design pattern &quot;Decorator&quot;](https://www.alexandre-hublau.com/en/posts/it/design-pattern-decorator/)
 - [Design pattern &quot;Composite&quot;](https://www.alexandre-hublau.com/en/posts/it/design-pattern-composite/)
-- [Design pattern &quot;State&quot;](https://www.alexandre-hublau.com/en/posts/it/design-pattern-state/)
 <!-- BLOG-POST-EN-LIST:END -->
 
 #### French posts 🇫🇷
