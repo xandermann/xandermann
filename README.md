@@ -29,12 +29,12 @@
 #### French posts 🇫🇷
 
 <!-- BLOG-POST-FR-LIST:START -->
-- [Simplifiez les conditions avec les opérateurs logiques et opérateurs ternaires](https://www.alexandre-hublau.com/fr/posts/itconditions-operateurs-logiques-ternaires/)
-- [Écrivez plus vite en HTML avec Emmet](https://www.alexandre-hublau.com/fr/posts/itemmet-ecrire-html-vite/)
-- [Introduction à Vim](https://www.alexandre-hublau.com/fr/posts/itintroduction-a-vim/)
-- [Introduction aux jobs linux](https://www.alexandre-hublau.com/fr/posts/itintroduction-jobs-linux/)
-- [Supprimez les messages de connexion SSH au démarrage de session](https://www.alexandre-hublau.com/fr/posts/itsupprimer-messages-ssh-connexion/)
-- [Créez un environnement avec Docker et Traefik](https://www.alexandre-hublau.com/fr/posts/itcreer-environnement-docker-traefik/)
-- [Dockeriser votre application SSH!](https://www.alexandre-hublau.com/fr/posts/itdockeriser-application-ssh/)
-- [Générez automatiquement vos certificats SSL avec traefik &lpar;OVH&rpar;](https://www.alexandre-hublau.com/fr/posts/itgenerer-certificat-https-docker-traefik/)
+- [Simplifiez les conditions avec les opérateurs logiques et opérateurs ternaires](https://www.alexandre-hublau.com/fr/posts/it/conditions-operateurs-logiques-ternaires/)
+- [Écrivez plus vite en HTML avec Emmet](https://www.alexandre-hublau.com/fr/posts/it/emmet-ecrire-html-vite/)
+- [Introduction à Vim](https://www.alexandre-hublau.com/fr/posts/it/introduction-a-vim/)
+- [Introduction aux jobs linux](https://www.alexandre-hublau.com/fr/posts/it/introduction-jobs-linux/)
+- [Supprimez les messages de connexion SSH au démarrage de session](https://www.alexandre-hublau.com/fr/posts/it/supprimer-messages-ssh-connexion/)
+- [Créez un environnement avec Docker et Traefik](https://www.alexandre-hublau.com/fr/posts/it/creer-environnement-docker-traefik/)
+- [Dockeriser votre application SSH!](https://www.alexandre-hublau.com/fr/posts/it/dockeriser-application-ssh/)
+- [Générez automatiquement vos certificats SSL avec traefik &lpar;OVH&rpar;](https://www.alexandre-hublau.com/fr/posts/it/generer-certificat-https-docker-traefik/)
 <!-- BLOG-POST-FR-LIST:END -->
