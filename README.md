@@ -16,6 +16,7 @@
 #### English posts 🇬🇧
 
 <!-- BLOG-POST-EN-LIST:START -->
+- [Practice code with the &quot;Quick Sort&quot; algorithm](https://www.alexandre-hublau.com/en/posts/it/tutorial-quick-sort/)
 - [How I built and organized my blog with Astro JS](https://www.alexandre-hublau.com/en/posts/it/feedback-how-i-built-my-astro-js-blog/)
 - [Atomic design - Technological watch](https://www.alexandre-hublau.com/en/posts/it/technological-watch-atomic-design/)
 - [Redis - Technological watch](https://www.alexandre-hublau.com/en/posts/it/technological-watch-redis/)
@@ -23,7 +24,6 @@
 - [The SOLID/STUPID principles](https://www.alexandre-hublau.com/en/posts/it/the-solid-stupid-principles/)
 - [Design pattern &quot;Visitor&quot;](https://www.alexandre-hublau.com/en/posts/it/design-pattern-visitor/)
 - [Design pattern &quot;Iterator&quot;](https://www.alexandre-hublau.com/en/posts/it/design-pattern-iterator/)
-- [Design pattern &quot;Observer&quot;](https://www.alexandre-hublau.com/en/posts/it/design-pattern-observer/)
 <!-- BLOG-POST-EN-LIST:END -->
 
 #### French posts 🇫🇷
