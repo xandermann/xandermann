@@ -16,6 +16,7 @@
 #### English posts 🇬🇧
 
 <!-- BLOG-POST-EN-LIST:START -->
+- [My REGEX cheat sheet](https://www.alexandre-hublau.com/en/posts/it/cheat-sheet-regex/)
 - [Practice code with the &quot;Quick Sort&quot; algorithm](https://www.alexandre-hublau.com/en/posts/it/tutorial-quick-sort/)
 - [How I built and organized my blog with Astro JS](https://www.alexandre-hublau.com/en/posts/it/feedback-how-i-built-my-astro-js-blog/)
 - [Atomic design - Technological watch](https://www.alexandre-hublau.com/en/posts/it/technological-watch-atomic-design/)
@@ -23,7 +24,6 @@
 - [Design pattern &quot;Strategy&quot;](https://www.alexandre-hublau.com/en/posts/it/design-pattern-strategy/)
 - [The SOLID/STUPID principles](https://www.alexandre-hublau.com/en/posts/it/the-solid-stupid-principles/)
 - [Design pattern &quot;Visitor&quot;](https://www.alexandre-hublau.com/en/posts/it/design-pattern-visitor/)
-- [Design pattern &quot;Iterator&quot;](https://www.alexandre-hublau.com/en/posts/it/design-pattern-iterator/)
 <!-- BLOG-POST-EN-LIST:END -->
 
 #### French posts 🇫🇷
