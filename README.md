@@ -16,6 +16,7 @@
 #### English posts 🇬🇧
 
 <!-- BLOG-POST-EN-LIST:START -->
+- [Understanding CSRF vulnerabilities](https://www.alexandre-hublau.com/en/posts/it/tutorial-understanding-csrf-vulnerabilities/)
 - [Understanding SQL injection vulnerabilities](https://www.alexandre-hublau.com/en/posts/it/tutorial-understanding-sql-injection-vulnerabilities/)
 - [My REGEX cheat sheet](https://www.alexandre-hublau.com/en/posts/it/cheat-sheet-regex/)
 - [Practice code with the &quot;Quick Sort&quot; algorithm](https://www.alexandre-hublau.com/en/posts/it/tutorial-quick-sort/)
@@ -23,7 +24,6 @@
 - [Atomic design - Technological watch](https://www.alexandre-hublau.com/en/posts/it/technological-watch-atomic-design/)
 - [Redis - Technological watch](https://www.alexandre-hublau.com/en/posts/it/technological-watch-redis/)
 - [Design pattern &quot;Strategy&quot;](https://www.alexandre-hublau.com/en/posts/it/design-pattern-strategy/)
-- [The SOLID/STUPID principles](https://www.alexandre-hublau.com/en/posts/it/the-solid-stupid-principles/)
 <!-- BLOG-POST-EN-LIST:END -->
 
 #### French posts 🇫🇷
