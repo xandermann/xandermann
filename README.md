@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Alexandre Hublau</h1>
 <h3 align="center">A passionate <strong>Devops Engineer</strong> from France 🇫🇷</h3>
 
-- 🔭 I’m currently working on [my blog](https://www.alexandre-hublau.com)
+- 🚀 Currently working with **Kubernetes** and **Ansible**
 
-- 🌱 I’m currently practicing **Kubernetes** and **Terraform**
+- 📝 I regularly write DevOps articles on my blog: [https://alexandre-hublau.com](https://www.alexandre-hublau.com/en/posts/it/)
 
-- 📝 I regularly write articles on [https://www.alexandre-hublau.com](https://www.alexandre-hublau.com/en/posts/it/)
+- 🌱 Currently learning **Golang**
 
-- 📫 How to reach me : **contact@alexandre-hublau.com**
+- 📫 Reach me at: **contact@alexandre-hublau.com**
 
-- ⚡ Fun fact **The alchemist : Paulo Coelho - is my favorite book ! 📚**
+- ⚡ Fun fact: *The Alchemist* by Paulo Coelho is my favorite book! 📖✨
 
 ### Blogs posts
 
