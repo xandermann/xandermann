@@ -16,6 +16,7 @@
 #### English posts 🇬🇧
 
 <!-- BLOG-POST-EN-LIST:START -->
+- [The pattern &quot;Hub&quot; in Golang](https://www.alexandre-hublau.com/en/posts/it/design-pattern-hub/)
 - [How does the HTTPS protocol work?](https://www.alexandre-hublau.com/en/posts/it/tutorial-how-tls-works/)
 - [Understanding SSH and setting up SSH keys](https://www.alexandre-hublau.com/en/posts/it/tutorial-understanding-ssh/)
 - [Understanding XSS vulnerabilities](https://www.alexandre-hublau.com/en/posts/it/tutorial-understanding-xss-vulnerabilities/)
@@ -23,7 +24,6 @@
 - [Understanding SQL injection vulnerabilities](https://www.alexandre-hublau.com/en/posts/it/tutorial-understanding-sql-injection-vulnerabilities/)
 - [My Regex cheat sheet](https://www.alexandre-hublau.com/en/posts/it/cheat-sheet-regex/)
 - [Practice code with the &quot;Quick Sort&quot; algorithm](https://www.alexandre-hublau.com/en/posts/it/tutorial-quick-sort/)
-- [How I built and organized my blog with Astro JS](https://www.alexandre-hublau.com/en/posts/it/feedback-how-i-built-my-astro-js-blog/)
 <!-- BLOG-POST-EN-LIST:END -->
 
 #### French posts 🇫🇷
